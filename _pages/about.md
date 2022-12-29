@@ -11,7 +11,7 @@ comments: true
 <p>
 The phrase "I should have taken a left turn at Albuquerque" is a catchphrase Bugs Bunny often says when he finds himself in a difficult or compromising situation. The phrase is meant to be humorous and suggests that Bugs Bunny took a wrong turn somewhere, leading him to his current predicament. The expression is closely associated with Bugs Bunny and used as a reference to the character and his mischievous nature.
 </p>
-<img src="/assets/images/carrot.png" alt="Carrot">
+<img src="albakirkey/assets/images/carrot.png" alt="Carrot">
 <p>
 Albakirkey is a play on Albuquerque. It is very hard to spell it, however Al-ba-kir-key is spelled as it sounds. 
 </p>
@@ -31,9 +31,9 @@ This is a fun and informative site and we hope you enjoy it too.
 <div class="sticky-top sticky-top-80">
 <h5>Buy me a coffee</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://zombiedogz.github.io/albakirkey/">Albakirkey</a>.</p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<a target="_blank" href="https://zombiedogz.github.io/albakirkey/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://zombiedogz.github.io/albakirkey/" class="btn btn-warning">Documentation</a>
 
 </div>
 </div>
