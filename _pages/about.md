@@ -9,9 +9,9 @@ comments: true
 <div class="col-md-8 pr-5">
 
 <p>
-The phrase "I should have taken a left turn at Albuquerque" is a catchphrase <a target="_blank" href="https://en.wikipedia.org/wiki/Bugs_Bunny" rel="nofollow">Bugs Bunny</a> often says when he finds himself in a difficult or compromising situation. The phrase is meant to be humorous and suggests that Bugs Bunny took a wrong turn somewhere, leading him to his current predicament. The expression is closely associated with Bugs Bunny and used as a reference to the character and his mischievous nature.
+The phrase "I should have taken a left turn at Albuquerque" is a catchphrase <a target="_blank" href="https://en.wikipedia.org/wiki/Bugs_Bunny" rel="nofollow"><b>Bugs Bunny</b></a> often says when he finds himself in a difficult or compromising situation. The phrase is meant to be humorous and suggests that Bugs Bunny took a wrong turn somewhere, leading him to his current predicament. The expression is closely associated with Bugs Bunny and used as a reference to the character and his mischievous nature.
 </p>
-<img src="albakirkey/assets/images/carrot.png" alt="Carrot" width="200" height="300">
+<img src="/albakirkey/assets/images/carrot.png" alt="Carrot" width="200" height="300">
 <p>
 Albakirkey is a play on Albuquerque. It is very hard to spell it, however Al-ba-kir-key is spelled as it sounds. 
 </p>
